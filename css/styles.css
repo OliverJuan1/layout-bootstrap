@@ -19,8 +19,34 @@
 
 .text-translate{
     transform: translateY(-70%);
-    background: #FFF;
-    margin: 50px;
+    background: #F5F7FA;
+    margin: 76px;
     border-radius: 10px;
     margin-top: auto;
+}
+
+.footer-bottom{
+    padding: 100px;
+    border-radius: 0 20px;
+    background: #263238;
+
+}
+
+.footer-bottom p{
+    color: #F5F7FA;
+}
+
+.footer-bottom img{
+    margin: 16px;
+
+}
+
+.row h3{
+    color: #F5F7FA;
+}
+
+.link-group a{
+    color: #F5F7FA;
+    text-decoration: none;
+    display: flex;
 }
